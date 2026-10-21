@@ -1,0 +1,15 @@
+
+# Database locale
+spese.db
+
+# File temporanei Python
+__pycache__/
+*.py[cod]
+
+# Ambienti virtuali
+.venv/
+venv/
+
+# File di sistema macOS
+.DS_Store
+
